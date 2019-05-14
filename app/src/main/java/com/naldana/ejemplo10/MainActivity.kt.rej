@@ -1,0 +1,10 @@
+diff a/app/src/main/java/com/naldana/ejemplo10/MainActivity.kt b/app/src/main/java/com/naldana/ejemplo10/MainActivity.kt	(rejected hunks)
+@@ -41,7 +41,7 @@
+             Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
+                 .setAction("Action", null).show()
+         }
+-
++//
+ 
+         // TODO (11) Permite administrar el DrawerLayout y el ActionBar
+         // TODO (11.1) Implementa las caracteristicas recomendas
